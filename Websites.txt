@@ -1,0 +1,16 @@
+host - 		https://000webhost.com/
+
+location - 	https://www.latlong.net/Show-Latitude-Longitude.html
+
+cookie - 	http://www.satya-weblog.com/2007/05/php-and-javascript-cookie.html
+
+geolocation - 	https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation
+
+php_mail - 	https://www.w3schools.com/php/func_mail_mail.asp
+
+ip_log - 	https://grabify.link/
+
+
+smart help
+colldk
+yXi1E(5kdA1EIbdISYS7
